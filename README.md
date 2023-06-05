@@ -1,2 +1,2 @@
 # LeetCode
-This repository contains all the codes which I have done on LeetCode platform.
+Collection of LeetCode questions to ace the coding interview!
