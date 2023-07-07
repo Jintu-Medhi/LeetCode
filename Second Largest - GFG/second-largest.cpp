@@ -11,8 +11,8 @@ public:
 	// largest elements
 	int print2largest(int arr[], int n) {
 	    // code here
-	    int l = 0;
-	    int sl = -1;
+	    int l = 0; // largest
+	    int sl = -1; //second largest
 	    for (int i=0; i<n; i++) {
 	        if (arr[i] > l) {
 	            l = arr[i];
